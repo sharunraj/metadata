@@ -1,0 +1,17 @@
+/* ======================================================
+   Metadata File: customer_metadata.dml
+   Description  : Defines the record layout for Customer data
+   Used in      : Ab Initio ETL framework
+   ====================================================== */
+
+record
+   decimal("10.0") customer_id;
+   string("50")    first_name;
+   string("50")    last_name;
+   string("100")   email;
+   string("15")    phone_number;
+   date("YYYY-MM-DD") date_of_birth;
+   string("1")     gender;
+   string("200")   address;
+   decimal("10.2") account_balance;
+end;
