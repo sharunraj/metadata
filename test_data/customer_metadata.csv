@@ -1,101 +1,101 @@
 customer_id,first_name,last_name,email,phone_number,date_of_birth,gender,address,account_balance
-10001,Alice,Johnson,alice.johnson@techcorp.com,415-555-1234,1990-02-15,F,"123 Silicon Way, San Francisco, CA 94103",12000.50
-10002,Robert,Smith,robert.smith@banking.com,212-555-5678,1985-06-25,M,"456 Wall Street, New York, NY 10005",23000.75
-10003,Jessica,Brown,jessica.brown@healthcare.org,310-555-7890,1993-10-10,F,"789 Beverly Blvd, Los Angeles, CA 90048",8500.30
-10004,Michael,Williams,michael.williams@lawfirm.net,312-555-2345,1978-03-19,M,"101 Main St, Chicago, IL 60601",45000.00
-10005,Emily,Davis,emily.davis@fashionhouse.com,305-555-6789,1988-11-30,F,"202 Ocean Drive, Miami Beach, FL 33139",15000.60
-10006,James,Miller,james.miller@construction.com,702-555-3456,1975-07-14,M,"303 Desert Lane, Las Vegas, NV 89109",32000.10
-10007,Olivia,Wilson,olivia.wilson@education.edu,206-555-9101,1995-04-23,F,"404 University Ave, Seattle, WA 98101",7000.25
-10008,David,Moore,david.moore@realestate.biz,512-555-1122,1982-12-05,M,"505 Suburbia Lane, Austin, TX 78701",28000.75
-10009,Sophia,Taylor,sophia.taylor@marketing.com,617-555-1313,1991-08-07,F,"606 Beacon Street, Boston, MA 02116",9000.40
-10010,Daniel,Anderson,daniel.anderson@finance.org,713-555-1414,1980-09-22,M,"707 Bayou St, Houston, TX 77002",36000.85
-10011,Charlotte,Thomas,charlotte.thomas@designs.com,305-555-1515,1994-03-30,F,"808 Art Deco Blvd, Miami, FL 33139",10000.75
-10012,Matthew,Jackson,matthew.jackson@techstartups.com,213-555-1616,1992-05-11,M,"909 Silicon Alley, Los Angeles, CA 90001",11000.50
-10013,Amelia,Martinez,amelia.martinez@hospital.org,312-555-1717,1987-02-02,F,"1010 Lake Shore Dr, Chicago, IL 60611",15500.20
-10014,William,White,william.white@legaladvice.net,646-555-1818,1974-11-08,M,"1111 Madison Ave, New York, NY 10028",47000.90
-10015,Mia,Harris,mia.harris@fitness.com,213-555-1919,1996-07-18,F,"1212 Sunset Blvd, Los Angeles, CA 90028",7500.50
-10016,Alexander,Clark,alexander.clark@engineering.com,720-555-2020,1983-01-15,M,"1313 Tech Park, Denver, CO 80202",25000.00
-10017,Isabella,Lewis,isabella.lewis@medresearch.org,512-555-2121,1990-12-20,F,"1414 Medical Center Dr, Austin, TX 78701",13500.70
-10018,Ethan,Walker,ethan.walker@automotive.biz,818-555-2222,1986-04-05,M,"1515 Motor City Rd, Burbank, CA 91506",21000.30
-10019,Ava,Hall,ava.hall@hospitality.com,702-555-2323,1991-09-14,F,"1616 Strip Blvd, Las Vegas, NV 89109",14000.00
-10020,Benjamin,Lopez,benjamin.lopez@architecture.com,415-555-2424,1979-06-18,M,"1717 Design District, San Francisco, CA 94103",40000.60
-10021,Ella,Allen,ella.allen@advertising.net,212-555-2525,1993-03-22,F,"1818 Madison Ave, New York, NY 10029",9200.80
-10022,Logan,Young,logan.young@consultancy.com,617-555-2626,1984-05-29,M,"1919 Back Bay, Boston, MA 02116",27000.45
-10023,Sofia,King,sofia.king@publishing.com,305-555-2727,1992-01-02,F,"2020 Book St, Miami, FL 33131",11000.15
-10024,Lucas,Scott,lucas.scott@sports.org,213-555-2828,1988-10-09,M,"2121 Stadium Way, Los Angeles, CA 90012",18000.30
-10025,Harper,Green,harper.green@entertainment.com,312-555-2929,1995-06-27,F,"2222 Broadway, Chicago, IL 60614",9800.65
-1001,Alice,Johnson,alice.johnson.lawyer@chicagolaw.com,312-555-1234,1987-03-14,F,"123 Maple Street, Chicago, IL 60610",15230.50
-1002,Michael,Brown,michael.brown.coder@techhub.com,415-555-5678,1990-07-25,M,"789 Silicon Avenue, San Francisco, CA 94103",8420.75
-1003,Sophia,Martinez,sophia.martinez@healthcare.org,213-555-8765,1985-11-30,F,"456 Wellness Lane, Los Angeles, CA 90001",10250.00
-1004,James,Smith,james.smith@finance.com,646-555-3456,1978-04-17,M,"320 Wall Street, New York, NY 10005",203400.30
-1005,Emily,Davis,emily.davis@artstudio.com,305-555-1290,1995-09-10,F,"567 Ocean Drive, Miami, FL 33139",5030.45
-1006,Robert,Garcia,robert.garcia@autoexpert.com,214-555-6532,1980-06-21,M,"235 Mechanic Street, Dallas, TX 75201",7240.60
-1007,Olivia,Miller,olivia.miller@fashionhub.com,312-555-7890,1992-12-15,F,"789 Fashion Ave, Chicago, IL 60611",9805.30
-1008,David,Rodriguez,david.rodriguez@realestate.com,303-555-9087,1984-02-28,M,"1234 Main Street, Denver, CO 80202",150000.00
-1009,Isabella,Hernandez,isabella.hernandez@culinaryworld.com,404-555-7834,1996-04-22,F,"678 Peach Lane, Atlanta, GA 30303",4200.25
-1010,John,Lee,john.lee@techguru.com,917-555-4432,1991-08-09,M,"101 Tech Park, New York, NY 10001",12340.00
-1011,Emma,Gonzalez,emma.gonzalez@medicare.com,702-555-3345,1983-01-05,F,"345 Health Blvd, Las Vegas, NV 89109",18700.50
-1012,Daniel,Wilson,daniel.wilson@engineerpro.com,503-555-2134,1988-03-23,M,"789 Innovation Way, Portland, OR 97201",11050.80
-1013,Charlotte,Martinez,charlotte.martinez@designhub.com,512-555-9876,1994-05-14,F,"101 Creative Lane, Austin, TX 78701",7500.45
-1014,Christopher,Anderson,chris.anderson@lawfirm.com,216-555-6842,1975-10-18,M,"456 Justice Blvd, Cleveland, OH 44114",204500.75
-1015,Amelia,Thomas,amelia.thomas@musicworld.com,323-555-9988,1989-11-19,F,"123 Melody Lane, Los Angeles, CA 90012",6500.25
-1016,Joshua,White,joshua.white@architects.com,504-555-5566,1982-07-07,M,"789 Skyline Drive, New Orleans, LA 70112",93000.80
-1017,Mia,Lopez,mia.lopez@travelagency.com,617-555-1122,1993-06-30,F,"456 Journey Street, Boston, MA 02116",8100.90
-1018,Ethan,Harris,ethan.harris@construction.com,713-555-4455,1979-12-12,M,"123 Builder's Lane, Houston, TX 77002",145000.00
-1019,Zoe,Clark,zoe.clark@medialab.com,919-555-3344,1997-01-21,F,"678 Media Blvd, Raleigh, NC 27601",5200.60
-1020,Andrew,Lewis,andrew.lewis@sciencehub.com,210-555-7788,1981-05-17,M,"789 Research Road, San Antonio, TX 78205",87350.40
-1021,Lily,Walker,lily.walker@fashionhouse.com,702-555-2233,1990-02-02,F,"123 Style Lane, Las Vegas, NV 89109",10400.00
-1022,Logan,Hall,logan.hall@fitlife.com,602-555-6677,1986-08-28,M,"456 Fitness Blvd, Phoenix, AZ 85004",15600.50
-1023,Scarlett,Allen,scarlett.allen@lawgroup.com,808-555-4411,1988-11-11,F,"789 Legal Ave, Honolulu, HI 96813",203450.70
-1024,Aiden,Young,aiden.young@greentech.com,303-555-6767,1992-03-09,M,"123 Eco Street, Denver, CO 80202",8530.90
-1025,Grace,King,grace.king@culinaryarts.com,414-555-3322,1994-07-26,F,"456 Gourmet Lane, Milwaukee, WI 53202",7050.20
-1023,Michael,Johnson,michael.johnson.tech@gmail.com,415-555-0123,1985-04-15,M,"123 Tech Lane, San Francisco, CA 94105",12050.75
-2046,Emily,Davis,emily.davis.writer@yahoo.com,323-555-0456,1990-07-19,F,"456 Story Ave, Los Angeles, CA 90001",7500.20
-3079,Robert,Miller,rob.miller.consultant@business.com,312-555-0789,1978-03-22,M,"789 Business Rd, Chicago, IL 60614",20450.50
-4120,Sophia,Wilson,sophia.wilson.artist@artmail.com,212-555-0912,1995-11-30,F,"234 Art St, New York, NY 10001",9820.75
-5132,James,Brown,james.brown.finance@money.com,305-555-1045,1982-08-10,M,"567 Wall Street, Miami, FL 33101",30500.00
-6153,Olivia,Taylor,olivia.taylor.design@creativemail.com,206-555-1178,1988-12-02,F,"890 Design Blvd, Seattle, WA 98101",14250.45
-7264,William,Anderson,will.anderson.dev@techmail.com,512-555-1309,1991-01-24,M,"123 Code Street, Austin, TX 78701",11200.00
-8375,Ava,Thomas,ava.thomas.cooking@kitchen.com,404-555-1432,1975-06-16,F,"456 Culinary Rd, Atlanta, GA 30301",9350.60
-9486,Charles,Jackson,charles.jackson.music@melody.com,617-555-1567,1980-03-05,M,"789 Harmonic Lane, Boston, MA 02101",6500.25
-1057,Isabella,White,isabella.white.law@legalmail.com,702-555-1698,1983-09-21,F,"234 Justice Ave, Las Vegas, NV 89101",21250.95
-1168,Henry,Harris,henry.harris.science@research.com,303-555-1723,1979-04-18,M,"890 Research Blvd, Denver, CO 80201",18075.30
-1279,Mia,Martin,mia.martin.travel@wanderlust.com,602-555-1859,1992-10-07,F,"567 Explorer Rd, Phoenix, AZ 85001",8700.00
-1380,Alexander,Thompson,alex.thompson.sports@athlete.com,210-555-1980,1987-07-29,M,"345 Athletic Dr, San Antonio, TX 78201",14500.50
-1491,Charlotte,Garcia,charlotte.garcia.fashion@style.com,727-555-2034,1994-11-12,F,"123 Fashion St, Tampa, FL 33601",9600.80
-1502,Liam,Martinez,liam.martinez.engineering@build.com,919-555-2156,1973-02-27,M,"678 Construct Ave, Raleigh, NC 27601",22000.00
-1613,Amelia,Rodriguez,amelia.rodriguez.education@learn.com,503-555-2287,1986-05-14,F,"234 Knowledge Blvd, Portland, OR 97201",13450.75
-1724,Lucas,Lewis,lucas.lewis.marketing@marketplace.com,612-555-2399,1989-06-02,M,"456 Market St, Minneapolis, MN 55401",15400.60
-1835,Harper,Walker,harper.walker.health@wellness.com,901-555-2456,1997-03-10,F,"789 Health Rd, Memphis, TN 38101",7250.40
-1946,Ethan,Hall,ethan.hall.realestate@homes.com,317-555-2588,1981-01-17,M,"234 Property Ave, Indianapolis, IN 46201",17600.00
-2057,Abigail,Young,abigail.young.art@creative.com,808-555-2678,1996-07-15,F,"567 Artistry Blvd, Honolulu, HI 96801",8900.25
-2168,Daniel,King,daniel.king.politics@govern.com,505-555-2790,1976-09-25,M,"890 Capitol St, Albuquerque, NM 87101",21000.00
-2279,Ella,Scott,ella.scott.music@melody.com,314-555-2823,1984-05-09,F,"345 Symphony Rd, St. Louis, MO 63101",14200.75
-2380,Matthew,Green,matthew.green.it@techworld.com,718-555-2954,1987-12-19,M,"678 Tech Park, Brooklyn, NY 11201",13400.50
-2491,Chloe,Baker,chloe.baker.food@culinary.com,408-555-3032,1993-08-24,F,"789 Gourmet St, San Jose, CA 95101",7600.20
-2502,Benjamin,Perez,benjamin.perez.journalism@news.com,801-555-3178,1980-11-05,M,"234 Media Ave, Salt Lake City, UT 84101",16750.00
-1000000001,Alice,Johnson,alice.johnson34@example.com,555-123-4567,1985-07-12,F,"123 Elm Street, Springfield, IL 62704",3500.75
-1000000002,Michael,Smith,michael.smith21@workmail.com,555-234-5678,1978-03-22,M,"456 Pine Lane, Austin, TX 73301",12050.00
-1000000003,Emma,Brown,emma.brown62@webmail.com,555-345-6789,1990-11-15,F,"789 Maple Avenue, Orlando, FL 32801",8000.45
-1000000004,James,Williams,james.williams98@domain.com,555-456-7890,1983-06-02,M,"101 Oak Street, Seattle, WA 98101",6200.30
-1000000005,Olivia,Jones,olivia.jones74@internet.com,555-567-8901,1995-08-20,F,"202 Birch Road, Denver, CO 80201",5400.60
-1000000006,David,Garcia,david.garcia47@web.com,555-678-9012,1971-10-30,M,"303 Cedar Avenue, Miami, FL 33101",15700.20
-1000000007,Sophia,Martinez,sophia.martinez82@mail.com,555-789-0123,1988-02-18,F,"404 Cherry St, Boston, MA 02101",4700.80
-1000000008,Daniel,Rodriguez,daniel.rodriguez59@company.com,555-890-1234,1982-09-05,M,"505 Walnut Blvd, San Francisco, CA 94101",13400.10
-1000000009,Ava,Lopez,ava.lopez33@service.com,555-901-2345,1993-04-25,F,"606 Chestnut Court, Atlanta, GA 30301",9100.55
-1000000010,Matthew,Gonzalez,matthew.gonzalez72@provider.com,555-012-3456,1975-12-12,M,"707 Beech Drive, Portland, OR 97201",11600.70
-1000000011,Isabella,Hernandez,isabella.hernandez26@webmail.com,555-123-4568,1989-05-13,F,"808 Dogwood Street, Phoenix, AZ 85001",7300.40
-1000000012,Ethan,Wilson,ethan.wilson41@myemail.com,555-234-5679,1991-01-10,M,"909 Redwood Lane, Philadelphia, PA 19101",5400.25
-1000000013,Mia,Anderson,mia.anderson53@mailservice.com,555-345-6780,1984-07-21,F,"1010 Aspen Circle, Dallas, TX 75201",8300.95
-1000000014,Andrew,Thomas,andrew.thomas64@portal.com,555-456-7891,1979-11-03,M,"1111 Spruce Lane, Houston, TX 77001",12900.88
-1000000015,Charlotte,Taylor,charlotte.taylor11@online.com,555-567-8902,1996-03-14,F,"1212 Fir Terrace, Las Vegas, NV 89101",6100.03
-1000000016,Joseph,Moore,joseph.moore76@netmail.com,555-678-9013,1981-08-29,M,"1313 Poplar Street, Charlotte, NC 28201",15200.65
-1000000017,Amelia,Jackson,amelia.jackson94@webmail.com,555-789-0124,1994-06-07,F,"1414 Willow Way, Columbus, OH 43201",4900.50
-1000000018,William,Lee,william.lee85@domain.com,555-890-1235,1987-12-19,M,"1515 Hickory Blvd, Indianapolis, IN 46201",8700.22
-1000000019,Harper,Harris,harper.harris17@service.com,555-901-2346,1992-09-01,F,"1616 Elmwood Ave, Jacksonville, FL 32201",7800.12
-1000000020,Benjamin,Clark,benjamin.clark68@provider.com,555-012-3457,1974-04-04,M,"1717 Laurel Street, San Jose, CA 95101",16700.78
-1000000021,Evelyn,Lewis,evelyn.lewis29@webmail.com,555-123-4569,1986-01-17,F,"1818 Pinecrest Lane, Fort Worth, TX 76101",9200.44
-1000000022,Alexander,Walker,alexander.walker31@company.com,555-234-5680,1977-07-22,M,"1919 Highland Road, San Antonio, TX 78201",13800.33
-1000000023,Abigail,Hall,abigail.hall40@internet.com,555-345-6781,1997-11-08,F,"2020 Valley View, Nashville, TN 37201",6500.11
-1000000024,Lucas,Allen,lucas.allen58@web.com,555-456-7892,1980-03-30,M,"2121 Meadow Lane, Detroit, MI 48201",14500.90
-1000000025,Emily,Young,emily.young10@online.com,555-567-8903,1998-08-15,F,"2222 Ridge Road, Memphis, TN 38101",5700.32
+1000000001,Alice,Johnson,alice.johnson.chef@culinarymail.com,415-555-0123,1985-06-15,F,"123 Main St, San Francisco, CA 94105",12000.50
+1000000002,Bob,Williams,bob.williams.coder@techsolutions.com,212-555-0345,1990-08-24,M,"789 Tech Avenue, New York, NY 10001",18000.75
+1000000003,Charlie,Brown,charlie.brown.writer@literaturemail.com,312-555-0678,1978-12-03,M,"456 Story Lane, Chicago, IL 60614",9500.00
+1000000004,Dana,White,dana.white.artist@artmail.com,323-555-0912,1995-03-15,F,"321 Canvas Blvd, Los Angeles, CA 90046",4300.25
+1000000005,Eve,Davis,eve.davis.manager@businessmail.com,617-555-0193,1983-11-29,F,"654 Market St, Boston, MA 02108",20000.00
+1000000006,Frank,Miller,frank.miller.pilot@flymail.com,305-555-0246,1975-04-17,M,"987 Aviation Ave, Miami, FL 33101",31000.50
+1000000007,Grace,Lee,grace.lee.designer@fashionmail.com,206-555-0347,1992-07-21,F,"123 Style St, Seattle, WA 98101",6500.75
+1000000008,Henry,Clark,henry.clark.engineer@buildmail.com,512-555-0458,1988-09-10,M,"321 Innovation Dr, Austin, TX 78701",22000.00
+1000000009,Isabella,Martinez,isabella.martinez.teacher@educationmail.com,404-555-0569,1979-01-05,F,"456 Learning Ln, Atlanta, GA 30301",15000.50
+1000000010,Jack,Harris,jack.harris.musician@musicmail.com,213-555-0670,1986-10-23,M,"789 Melody Rd, Los Angeles, CA 90001",8700.75
+1000000011,Karen,Rodriguez,karen.rodriguez.nurse@healthmail.com,215-555-0781,1980-03-14,F,"123 Care St, Philadelphia, PA 19102",13400.25
+1000000012,Larry,Walker,larry.walker.pharmacist@healthcaremail.com,602-555-0892,1977-06-01,M,"321 Pill Rd, Phoenix, AZ 85001",19800.00
+1000000013,Megan,Hall,megan.hall.lawyer@lawmail.com,702-555-0913,1990-12-19,F,"654 Justice Blvd, Las Vegas, NV 89101",26500.50
+1000000014,Nathan,Allen,nathan.allen.trucker@logisticsmail.com,503-555-1024,1982-08-09,M,"987 Route 66, Portland, OR 97201",7500.75
+1000000015,Olivia,Young,olivia.young.consultant@bizmail.com,919-555-1135,1993-05-22,F,"123 Business Park, Raleigh, NC 27601",35000.00
+1000000016,Paul,King,paul.king.director@movietown.com,415-555-1246,1971-11-17,M,"321 Cinema St, San Francisco, CA 94103",56000.25
+1000000017,Quincy,Scott,quincy.scott.baker@bakingmail.com,718-555-1357,1989-02-27,M,"654 Bake Ave, Brooklyn, NY 11201",9200.50
+1000000018,Rachel,Green,rachel.green.gardener@gardenmail.com,817-555-1468,1984-04-05,F,"987 Bloom Blvd, Fort Worth, TX 76101",4900.75
+1000000019,Steve,Adams,steve.adams.mechanic@autoshopmail.com,901-555-1579,1976-09-30,M,"123 Wrench Ln, Memphis, TN 38101",11000.00
+1000000020,Tina,Baker,tina.baker.editor@publishingmail.com,303-555-1680,1991-07-18,F,"321 Editorial St, Denver, CO 80201",24500.50
+1000000021,Uma,Nelson,uma.nelson.researcher@sciencemail.com,504-555-1791,1987-10-11,F,"654 Research Rd, New Orleans, LA 70112",30500.75
+1000000022,Victor,Ramirez,victor.ramirez.coach@sportsmail.com,313-555-1902,1974-05-25,M,"987 Field Dr, Detroit, MI 48201",4100.00
+1000000023,Wendy,Parker,wendy.parker.photographer@imagemail.com,407-555-2013,1986-03-07,F,"123 Snapshot Ln, Orlando, FL 32801",8800.25
+1000000024,Xander,Collins,xander.collins.architect@buildmail.com,216-555-2124,1979-11-20,M,"321 Blueprint Blvd, Cleveland, OH 44101",29500.50
+1000000025,Yara,Sanders,yara.sanders.veterinarian@vetmail.com,602-555-2235,1994-12-28,F,"654 Petcare Rd, Phoenix, AZ 85003",14200.75
+1001,Alice,Johnson,alice.johnson1975@mail.com,415-555-1234,1975-04-22,F,"123 Maple Street, San Francisco, CA 94102",10235.75
+1002,Robert,Smith,robert.smith.architect@design.com,212-555-5678,1980-08-15,M,"456 Elm Road, New York, NY 10001",22045.30
+1003,Emily,Davis,emily.davis_chef@cookmail.com,323-555-8765,1985-02-10,F,"789 Sunset Blvd, Los Angeles, CA 90028",5000.00
+1004,Michael,Brown,michael.brown.tech@innovate.com,617-555-4321,1990-12-01,M,"321 Beacon Street, Boston, MA 02108",14890.90
+1005,Jessica,Taylor,jessica.taylor.music@melody.com,312-555-9876,1995-06-30,F,"654 Harmony Lane, Chicago, IL 60607",7300.55
+1006,David,Martinez,david.martinez@finance.com,305-555-6543,1978-11-22,M,"987 Ocean Drive, Miami, FL 33139",9850.00
+1007,Sarah,Wilson,sarah.wilson.writer@wordsmith.com,206-555-1122,1988-09-05,F,"101 Rainy Street, Seattle, WA 98101",6500.70
+1008,James,Anderson,james.anderson@lawfirm.com,512-555-3344,1983-03-18,M,"202 Congress Ave, Austin, TX 78701",13400.00
+1009,Laura,Moore,laura.moore@artworld.com,404-555-7788,1992-07-12,F,"303 Peachtree Street, Atlanta, GA 30303",4550.25
+1010,William,Taylor,william.taylor@healthcare.org,702-555-9999,1968-01-01,M,"404 Strip Ave, Las Vegas, NV 89109",25700.00
+1011,Sophia,Martinez,sophia.martinez@travelworld.com,602-555-1010,1987-05-25,F,"505 Desert Road, Phoenix, AZ 85001",9500.60
+1012,Daniel,Hernandez,daniel.hernandez@engineering.com,210-555-1414,1991-10-02,M,"606 River Walk, San Antonio, TX 78205",11200.15
+1013,Isabella,Lopez,isabella.lopez@fashionhouse.com,704-555-2323,1984-04-09,F,"707 Fashion Ave, Charlotte, NC 28202",8700.40
+1014,Matthew,Gonzalez,matthew.gonzalez@construction.com,303-555-3131,1972-09-29,M,"808 Mountain View, Denver, CO 80202",15800.80
+1015,Olivia,Clark,olivia.clark@literature.com,414-555-4242,1994-12-17,F,"909 Book Lane, Milwaukee, WI 53202",3400.50
+1016,Joshua,Rodriguez,joshua.rodriguez@musicworld.com,503-555-5656,1989-02-28,M,"1010 Melody Drive, Portland, OR 97201",8800.00
+1017,Mia,Perez,mia.perez@fitnesshub.com,901-555-6767,1996-06-03,F,"1111 Wellness Street, Memphis, TN 38103",3200.75
+1018,Christopher,Nguyen,christopher.nguyen@technology.com,313-555-7878,1977-10-10,M,"1212 Tech Blvd, Detroit, MI 48201",14900.90
+1019,Ava,Lee,ava.lee@beautycare.com,816-555-8989,1986-03-14,F,"1313 Glam Street, Kansas City, MO 64106",7800.30
+1020,Ethan,White,ethan.white@hospitality.com,615-555-9090,1993-07-23,M,"1414 Comfort Ave, Nashville, TN 37203",10200.20
+1021,Abigail,King,abigail.king@education.org,702-555-1111,1979-11-01,F,"1515 Knowledge Lane, Las Vegas, NV 89109",6700.00
+1022,Logan,Scott,logan.scott@automotive.com,602-555-2222,1981-01-25,M,"1616 Motor Drive, Phoenix, AZ 85001",13600.45
+1023,Sophia,Green,sophia.green@ecoworld.com,210-555-3333,1983-06-30,F,"1717 Eco Street, San Antonio, TX 78205",9400.20
+1024,Lucas,Adams,lucas.adams@sportsnet.com,704-555-4444,1990-09-15,M,"1818 Victory Blvd, Charlotte, NC 28202",10450.75
+1025,Zoe,Baker,zoe.baker@culinaryarts.com,303-555-5555,1998-12-08,F,"1919 Gourmet Lane, Denver, CO 80202",5600.60
+10001,Michael,Johnson,michael.johnson82@financecorp.com,212-555-1234,1982-07-15,M,"123 Finance St, New York, NY 10004",52340.75
+10002,Emily,Clark,emily.clark.music@gmail.com,310-555-5678,1990-03-22,F,"456 Melody Lane, Los Angeles, CA 90036",13420.00
+10003,David,Smith,david.smith.tech@innovate.com,415-555-8765,1975-11-30,M,"789 Silicon Ave, San Francisco, CA 94107",78900.25
+10004,Sophia,Martinez,sophia.martinez.art@creations.com,210-555-4321,1985-04-18,F,"101 Canvas St, Austin, TX 78701",6520.50
+10005,James,Brown,james.brown.agency@media.com,718-555-2345,1978-08-09,M,"202 Broadway, Brooklyn, NY 11206",102340.00
+10006,Olivia,Wilson,olivia.wilson.design@studio.com,312-555-6789,1993-12-11,F,"303 Art District, Chicago, IL 60607",9380.75
+10007,William,Garcia,william.garcia.law@firm.com,305-555-9876,1980-06-25,M,"404 Legal Way, Miami, FL 33101",48250.60
+10008,Ava,Rodriguez,ava.rodriguez.health@wellness.com,713-555-3456,1988-02-14,F,"505 Health Blvd, Houston, TX 77002",12340.95
+10009,Christopher,Lee,chris.lee.engineering@tech.com,602-555-5432,1983-05-05,M,"606 Tech Park, Phoenix, AZ 85004",67520.10
+10010,Isabella,Harris,isabella.harris.culinary@delights.com,702-555-9870,1995-08-01,F,"707 Gourmet Lane, Las Vegas, NV 89109",3500.00
+10011,Robert,Miller,robert.miller.consult@advice.com,415-555-1111,1970-09-15,M,"808 Consultancy St, San Francisco, CA 94104",103450.55
+10012,Mia,Davis,mia.davis.education@learn.com,412-555-2222,1991-01-29,F,"909 University Ave, Pittsburgh, PA 15213",2450.30
+10013,Joseph,Martinez,joseph.martinez.marketing@connect.com,818-555-3333,1987-11-23,M,"1010 Market St, Los Angeles, CA 90017",56300.45
+10014,Amelia,Lopez,amelia.lopez.writing@creatives.com,503-555-4444,1984-03-18,F,"1111 Story Lane, Portland, OR 97209",4800.25
+10015,Charles,Anderson,charles.anderson.build@construct.com,702-555-5555,1976-07-30,M,"1212 Builder Ave, Las Vegas, NV 89101",75420.95
+10016,Charlotte,Nguyen,charlotte.nguyen.photography@visuals.com,305-555-6666,1994-02-28,F,"1313 Snapshot Blvd, Miami, FL 33131",6900.40
+10017,Daniel,Garcia,daniel.garcia.art@expression.com,213-555-7777,1981-10-12,M,"1414 Expression St, Los Angeles, CA 90015",3200.00
+10018,Sophia,Perez,sophia.perez.fashion@style.com,212-555-8888,1992-06-05,F,"1515 Fashion Ave, New York, NY 10018",8900.75
+10019,Matthew,Thompson,matthew.thompson.consult@insight.com,617-555-9999,1979-12-22,M,"1616 Beacon St, Boston, MA 02116",102300.25
+10020,Lily,Ramirez,lily.ramirez.music@harmony.com,646-555-0000,1986-09-09,F,"1717 Melody Lane, New York, NY 10023",12400.10
+10021,Andrew,White,andrew.white.research@thinktank.com,312-555-1112,1980-04-03,M,"1818 Research Blvd, Chicago, IL 60610",75000.50
+10022,Grace,King,grace.king.culinary@bistro.com,617-555-1212,1989-11-30,F,"1919 Gourmet St, Boston, MA 02110",13500.25
+10023,Benjamin,Wright,benjamin.wright.finance@wealth.com,404-555-2323,1977-03-15,M,"2020 Money Ave, Atlanta, GA 30303",95400.75
+10024,Avery,Scott,avery.scott.management@leaders.com,512-555-3434,1983-05-27,F,"2121 Leadership Way, Austin, TX 78702",64000.40
+10025,Ethan,Green,ethan.green.tech@solutions.com,702-555-4545,1990-10-18,M,"2222 Innovation Dr, Las Vegas, NV 89103",42200.30
+1001,Michael,Johnson,michael.johnson@legalfirm.com,312-555-1234,1985-08-14,M,"123 Maple Street, Chicago, IL 60614",10450.75
+1002,Emily,Brown,emily.brown@artistry.com,646-555-5678,1990-03-22,F,"456 Elm Street, New York, NY 10001",7650.20
+1003,Robert,Davis,robert.davis@techcorp.com,415-555-9876,1978-12-30,M,"789 Pine Road, San Francisco, CA 94109",15900.50
+1004,Jessica,Garcia,jessica.garcia@medicenter.org,213-555-5555,1986-07-17,F,"1010 Cedar Lane, Los Angeles, CA 90001",13400.00
+1005,David,Martinez,david.martinez@financesolutions.com,305-555-4321,1975-04-11,M,"2020 Ocean Drive, Miami, FL 33101",8900.25
+1006,Sarah,Lee,sarah.lee@fashionista.com,617-555-6789,1992-11-29,F,"3030 Beacon Street, Boston, MA 02108",4500.60
+1007,Daniel,Hernandez,daniel.hernandez@musicworld.com,702-555-1122,1983-02-05,M,"4040 Harmon Avenue, Las Vegas, NV 89109",11000.00
+1008,Laura,Kim,laura.kim@culinarydelights.com,808-555-3344,1987-09-18,F,"5050 Ala Moana Blvd, Honolulu, HI 96814",7200.85
+1009,James,Clark,james.clark@engineeringco.com,210-555-6677,1979-06-06,M,"6060 Alamo Plaza, San Antonio, TX 78205",13250.40
+1010,Megan,Lopez,megan.lopez@wellnesshub.com,602-555-7788,1982-01-20,F,"7070 Camelback Road, Phoenix, AZ 85016",10100.95
+1011,Brandon,White,brandon.white@techinnovators.com,704-555-8899,1995-05-30,M,"8080 Trade Street, Charlotte, NC 28202",5600.10
+1012,Ashley,Harris,ashley.harris@travelventures.com,303-555-9900,1991-10-25,F,"9090 Rocky Road, Denver, CO 80202",6700.75
+1013,Brian,Lewis,brian.lewis@consultingexperts.com,614-555-1010,1973-03-15,M,"1010 State Street, Columbus, OH 43215",12300.30
+1014,Sophia,Robinson,sophia.robinson@medicalsupply.com,919-555-1111,1988-12-09,F,"1111 Capital Blvd, Raleigh, NC 27601",8400.55
+1015,Christopher,Walker,christopher.walker@realtygroup.com,504-555-1212,1980-11-03,M,"1212 Bourbon Street, New Orleans, LA 70116",11200.45
+1016,Grace,Hall,grace.hall@designstudio.com,206-555-1313,1994-04-14,F,"1313 Pike Place, Seattle, WA 98101",7500.00
+1017,Ethan,Allen,ethan.allen@homefurnishings.com,407-555-1414,1976-07-19,M,"1414 Orange Avenue, Orlando, FL 32801",13800.60
+1018,Olivia,King,olivia.king@fashionhub.com,713-555-1515,1993-09-23,F,"1515 Galleria Drive, Houston, TX 77056",9200.80
+1019,Alexander,Scott,alexander.scott@logisticspro.com,317-555-1616,1981-05-11,M,"1616 Meridian Street, Indianapolis, IN 46202",10450.00
+1020,Chloe,Young,chloe.young@beautysalon.com,619-555-1717,1997-02-28,F,"1717 Sunset Boulevard, San Diego, CA 92101",4800.50
+1021,Matthew,Green,matthew.green@constructionco.com,212-555-1818,1984-06-14,M,"1818 Broadway, New York, NY 10023",15600.95
+1022,Isabella,Adams,isabella.adams@eventplanner.com,215-555-1919,1991-01-05,F,"1919 Market Street, Philadelphia, PA 19103",8900.35
+1023,Joseph,Nelson,joseph.nelson@cargogroup.com,602-555-2020,1977-08-22,M,"2020 Camelback Road, Phoenix, AZ 85016",11500.20
+1024,Emma,Mitchell,emma.mitchell@healthclinic.com,512-555-2121,1996-03-12,F,"2121 Congress Avenue, Austin, TX 78701",5400.15
+1025,Andrew,Perez,andrew.perez@autodealer.com,702-555-2222,1989-12-01,M,"2222 Las Vegas Blvd, Las Vegas, NV 89109",12000.50
