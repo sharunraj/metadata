@@ -1,12 +1,21 @@
-```csv
-1,"John","Doe","john.doe@example.com","555-1234","1985-06-15","M","123 Elm St, Springfield, IL",2500.50
-2,"Jane","Smith","jane.smith@example.com","555-5678","1990-02-20","F","456 Oak St, Springfield, IL",3000.75
-3,"Michael","Johnson","michael.j@example.com","555-8765","1978-11-30","M","789 Pine St, Springfield, IL",1500.25
-4,"Emily","Davis","emily.davis@example.com","555-4321","1988-07-07","F","101 Maple St, Springfield, IL",5000.00
-5,"Christopher","Brown","chris.brown@example.com","555-6789","1995-03-15","M","202 Birch St, Springfield, IL",1200.00
-6,"Jessica","Wilson","jessica.w@example.com","555-9876","1982-08-25","F","303 Cedar St, Springfield, IL",3500.40
-7,"Daniel","Martinez","daniel.m@example.com","555-5432","1975-12-05","M","404 Walnut St, Springfield, IL",2200.30
-8,"Sarah","Anderson","sarah.anderson@example.com","555-1235","1993-05-10","F","505 Cherry St, Springfield, IL",1800.20
-9,"David","Taylor","david.t@example.com","555-6780","1980-09-18","M","606 Ash St, Springfield, IL",2700.60
-10,"Laura","Thomas","laura.thomas@example.com","555-9870","1998-01-22","F","707 Poplar St, Springfield, IL",3200.80
-```
+customer_id,first_name,last_name,email,phone_number,date_of_birth,gender,address,account_balance
+8302,Joyce,Lucas,brian43@example.net,6843234043,2003-12-24,a,"78021 Roberts Road Suite 263
+South Stacyside, MI 97229",-197210866561804105.5061223637909146
+9885,Mary,Nguyen,lopezmary@example.net,+1-767-830-4450x86669,1992-06-27,b,"53279 Robert Village Apt. 962
+Katherineton, DE 57059",-6747306.65254186594511529442833709949449565562790989596874013
+1290,Ashley,Yu,dawnmaynard@example.net,(473)614-3344,2004-11-07,c,"823 Romero Shoals Apt. 513
+Swansonton, MI 25901",-41933528258491635063060119933.9721181558510093974818296177220086011008489214400
+1367,Donald,Gilbert,patrick84@example.net,392.392.9960x110,2018-09-27,a,"413 Bonnie Center Apt. 968
+Lake Mike, WA 07403",27859949601345510242480798308555568789165252888410.5426487428402676245065389732269216
+4703,Kevin,Rowland,istevens@example.org,386-651-0115x101,1910-08-14,a,"20395 Welch Gardens
+Lake Anthonyville, FL 77244",-205812109451366505777773107161243046468517828130828285758999726556074814245973678760801289768458794.85774712197
+5885,Edward,Baker,jorgedavis@example.com,(392)612-8765x4201,1915-10-07,b,"733 Murphy Mission
+Lake Natalie, ND 24777",16709336012318495651158396919622519.43
+9390,Jesus,Browning,larrymitchell@example.org,549.513.2328x25280,2025-05-07,b,"083 Elaine Place
+Blacktown, MH 21063",9119.22074148709720123638997964830218213943292621210594389592590210256735151620
+2559,Jennifer,Barton,tracy74@example.org,001-633-331-5811,2009-06-11,b,"7332 Smith Circle Apt. 458
+Jonesshire, AZ 23000",79890190541359382526.38105845346
+6841,Eric,Bennett,jodiblake@example.com,860.954.6809x98870,1992-05-18,a,"27568 Shannon Alley Apt. 086
+Lake Elijahview, IL 96906",-162144411234.96753665905114260966873795725645762465076787300490000061091498797
+5217,Sean,Garcia,normantanya@example.org,+1-387-672-3335x1974,1969-02-04,c,"14943 Brown Junction Suite 792
+Leeburgh, NH 26457",-54308737465340603521638009.2
