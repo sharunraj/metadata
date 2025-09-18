@@ -1,17 +1,17 @@
-Here are 10 rows of realistic CSV test data based on the provided schema:
+Here's a sample of 10 rows of realistic CSV test data based on the given schema:
 
 ```csv
 customer_id,first_name,last_name,email,phone_number,date_of_birth,gender,address,account_balance
-1,John,Doe,john.doe@example.com,555-123-4567,1985-06-15,M,123 Elm Street,1500.75
-2,Jane,Smith,jane.smith@example.com,555-234-5678,1990-09-22,F,456 Oak Avenue,2500.50
-3,Michael,Brown,michael.brown@example.com,555-345-6789,1978-12-05,M,789 Pine Lane,320.00
-4,Linda,Johnson,linda.johnson@example.com,555-456-7890,1965-03-30,F,101 Maple Road,980.25
-5,James,Williams,james.williams@example.com,555-567-8901,1982-11-11,M,202 Birch Blvd,1750.00
-6,Patricia,Jones,patricia.jones@example.com,555-678-9012,1995-07-19,F,303 Cedar Court,500.50
-7,Robert,Garcia,robert.garcia@example.com,555-789-0123,1970-02-28,M,404 Spruce Terrace,3000.00
-8,Mary,Miller,mary.miller@example.com,555-890-1234,1988-10-08,F,505 Willow Way,120.75
-9,William,Davis,william.davis@example.com,555-901-2345,1992-05-14,M,606 Aspen Street,875.00
-10,Elizabeth,Martinez,elizabeth.martinez@example.com,555-012-3456,1975-01-25,F,707 Cherry Circle,150.25
+1000000001,John,Doe,john.doe@example.com,555-123-4567,1985-06-15,M,123 Elm St, Springfield, IL,1025.50
+1000000002,Jane,Smith,jane.smith@example.com,555-234-5678,1990-11-23,F,456 Oak St, Metropolis, NY,250.75
+1000000003,Michael,Brown,michael.brown@example.com,555-345-6789,1978-03-30,M,789 Pine St, Gotham, NJ,3050.00
+1000000004,Emily,Jones,emily.jones@example.com,555-456-7890,1995-07-12,F,321 Maple St, Star City, CA,450.25
+1000000005,David,Wilson,david.wilson@example.com,555-567-8901,1982-09-05,M,654 Cedar St, Central City, TX,875.00
+1000000006,Sarah,Johnson,sarah.johnson@example.com,555-678-9012,1993-01-17,F,987 Birch St, Coast City, FL,625.75
+1000000007,Robert,Lee,robert.lee@example.com,555-789-0123,1988-04-22,M,159 Walnut St, Keystone City, PA,1500.00
+1000000008,Laura,Garcia,laura.garcia@example.com,555-890-1234,1975-08-30,F,753 Chestnut St, Ivy Town, WA,2200.50
+1000000009,James,Martinez,james.martinez@example.com,555-901-2345,1980-12-10,M,852 Spruce St, Riverdale, MD,980.25
+1000000010,Anna,Anderson,anna.anderson@example.com,555-012-3456,1992-05-25,F,963 Willow St, Smallville, OH,725.00
 ```
 
-This dataset includes diverse names, realistic email formats, and various account balances, phone numbers, and addresses to reflect a realistic customer dataset.
+This data includes a variety of names, realistic email addresses, phone numbers, dates of birth, genders, addresses, and account balances, all adhering to the specified schema.
